@@ -1,6 +1,6 @@
 # github_sample
 
-A new Flutter project.
+This flutter project is created to help us understand and practise with git and github .
 
 ## Getting Started
 
